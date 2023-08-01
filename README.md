@@ -11,6 +11,10 @@ Welcome to our innovative Flutter chat application! This feature-rich messaging 
 - Firebase Storage integration for sharing images.
 - Supports both Android and iOS platforms.
 
+##Demo
+
+<img src=demo.png/>
+
 ## Setup Instructions
 To use this project, follow these steps:
 
