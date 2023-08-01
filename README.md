@@ -19,7 +19,7 @@ Welcome to our innovative Flutter chat application! This feature-rich messaging 
 To use this project, follow these steps:
 
 1. Clone the repository to your local machine:
-Replace `<repository_url>` with the URL of this GitHub repository.
+Replace `https://github.com/Hamad-Anwar/Messenger-App-Backend-Firebase` with the URL of this GitHub repository.
 
 2. Set up Firebase:
 - Create a new Firebase project in the [Firebase Console](https://console.firebase.google.com/).
